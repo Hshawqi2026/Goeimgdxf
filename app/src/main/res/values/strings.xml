@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GeoImage2DXF Pro</string>
+    <string name="tagline">Engineering Image-to-CAD Vectorizer &amp; DXF Generator</string>
+    <string name="new_project">مشروع جديد / New Project</string>
+    <string name="import_image">استيراد صورة / Import Image</string>
+    <string name="load_sample">تحميل صورة تجريبية / Load Sample Aerial</string>
+    <string name="recent_projects">المشاريع الأخيرة / Recent Projects</string>
+    <string name="no_recent_projects">لا توجد مشاريع سابقة، ابدأ باستيراد صورة</string>
+    <string name="auto_vectorize">AUTO VECTORIZE</string>
+    <string name="clean_geometry">تنظيف Geometry / Clean</string>
+    <string name="export_dxf">تصدير DXF / Export</string>
+    <string name="layers">الطبقات / Layers</string>
+    <string name="calibrate">معايرة القياس / Calibrate</string>
+    <string name="georeference">الإسناد الجغرافي / Georef</string>
+    <string name="properties">الخصائص / Properties</string>
+    <string name="settings">الإعدادات / Settings</string>
+    <string name="original_view">الأصلية / Raster</string>
+    <string name="vector_view">المخطط / Vector</string>
+    <string name="overlay_view">تطابق / Overlay</string>
+    <string name="split_view">مقارنة / Split</string>
+    <string name="undo">تراجع / Undo</string>
+    <string name="redo">إعادة / Redo</string>
+    <string name="fit_view">احتواء / Fit</string>
+    <string name="save_project">حفظ المشروع / Save</string>
+    <string name="dxf_validation_passed">تم التحقق من صحة DXF بنجاح</string>
+    <string name="export_success">تم حفظ ملف DXF بنجاح</string>
+</resources>

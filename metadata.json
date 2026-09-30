@@ -1,0 +1,6 @@
+{
+  "name": "GeoImage2DXF Pro",
+  "description": "Professional engineering CAD tool to vectorize aerial/cadastral imagery, blueprints, and site plans into clean CAD geometry and export standard DXF files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
